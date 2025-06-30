@@ -1,0 +1,89 @@
+[
+  {
+    "text": "heading 1",
+    "x": 86,
+    "y": 55,
+    "width": "",
+    "height": "",
+    "parentIds": [],
+    "id": "3a6b204e-a1ff-45bf-8c1c-5ad9fbf0eb99",
+    "category": "info",
+    "color": "#42a5f5"
+  },
+  {
+    "text": "\n      <table class=\"node-table\" contenteditable=\"true\">\n        <thead>\n          <tr>\n            <th>Header 1</th>\n            <th>Header 2</th>\n            <th>Header 3</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Data 1</td>\n            <td>Data 2</td>\n            <td>Data 3</td>\n          </tr>\n          <tr>\n            <td>Data 4</td>\n            <td>Data 5</td>\n            <td>Data 6</td>\n          </tr>\n          <tr>\n            <td>Data 7</td>\n            <td>Data 8</td>\n            <td>Data 9</td>\n          </tr>\n        </tbody>\n      </table>\n      <div class=\"table-controls\">\n        <button class=\"table-control-btn add-row-btn\">Add Row</button>\n        <button class=\"table-control-btn add-col-btn\">Add Column</button>\n        <button class=\"table-control-btn remove-row-btn\">Remove Row</button>\n        <button class=\"table-control-btn remove-col-btn\">Remove Column</button>\n        <button class=\"table-done-btn\">Done</button>\n      </div>\n    ",
+    "x": 560,
+    "y": 27,
+    "width": "361px",
+    "height": "220px",
+    "parentIds": [
+      "3a6b204e-a1ff-45bf-8c1c-5ad9fbf0eb99"
+    ],
+    "id": "83e2d04b-5c0d-4879-981a-1fc5010383f6",
+    "category": "info",
+    "color": "#42a5f5"
+  },
+  {
+    "text": "i dont kown its works",
+    "x": 79,
+    "y": 200,
+    "width": "",
+    "height": "",
+    "parentIds": [
+      "3a6b204e-a1ff-45bf-8c1c-5ad9fbf0eb99"
+    ],
+    "id": "a86bfd7c-5ed2-40fc-bc78-6df672283f74",
+    "category": "info",
+    "color": "#42a5f5"
+  },
+  {
+    "text": "it is works",
+    "x": 364,
+    "y": 125,
+    "width": "",
+    "height": "",
+    "parentIds": [
+      "3a6b204e-a1ff-45bf-8c1c-5ad9fbf0eb99"
+    ],
+    "id": "fe334e10-739a-4ed5-b21c-feeb0e5b6b83",
+    "category": "info",
+    "color": "#915dbb"
+  },
+  {
+    "text": "heading 2",
+    "x": 96,
+    "y": 343,
+    "width": "",
+    "height": "",
+    "parentIds": [],
+    "id": "5305dbf6-497b-44eb-87c1-7d88ecf9d335",
+    "category": "note",
+    "color": "#b7c0c8"
+  },
+  {
+    "text": "sfsfsfsfsfsfsfsfsf hesdsfsfsfsfs<br>\n      <table class=\"node-table\" contenteditable=\"true\">\n        <thead>\n          <tr>\n            <th>Header 1</th>\n            <th>Header 2</th>\n            <th>Header 3</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Data 1</td>\n            <td>Data 2</td>\n            <td>Data 3</td>\n          </tr>\n          <tr>\n            <td>Data 4</td>\n            <td>Data 5</td>\n            <td>Data 6</td>\n          </tr>\n          <tr>\n            <td>Data 7</td>\n            <td>Data 8</td>\n            <td>Data 9</td>\n          </tr>\n        </tbody>\n      </table>\n      <div class=\"table-controls\">\n        <button class=\"table-control-btn add-row-btn\">Add Row</button>\n        <button class=\"table-control-btn add-col-btn\">Add Column</button>\n        <button class=\"table-control-btn remove-row-btn\">Remove Row</button>\n        <button class=\"table-control-btn remove-col-btn\">Remove Column</button>\n        <button class=\"table-done-btn\">Done</button>\n      </div>\n    ",
+    "x": 359,
+    "y": 301,
+    "width": "",
+    "height": "",
+    "parentIds": [
+      "5305dbf6-497b-44eb-87c1-7d88ecf9d335"
+    ],
+    "id": "e14ae84a-fe8e-44ac-910c-c3569ca7d8a9",
+    "category": "note",
+    "color": "#dbf1c6"
+  },
+  {
+    "text": "sub heading",
+    "x": 704,
+    "y": 327,
+    "width": "",
+    "height": "",
+    "parentIds": [
+      "e14ae84a-fe8e-44ac-910c-c3569ca7d8a9"
+    ],
+    "id": "49051ba4-260a-4d81-ab1a-f2ef6b17ec53",
+    "category": "note",
+    "color": "#dbf1c6"
+  }
+]
