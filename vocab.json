@@ -1,30 +1,47 @@
 [
     {
-        "imgcover": "https://m.media-amazon.com/images/I/71aLultW5EL._AC_UF1000,1000_QL80_.jpg",
-        "word": "Welcome",
-        "type": "Adj",
-        "meaning": "welcome",
-        "example": "welcome to the office"
-    },
+          "imgcover": "/image.gif",
+          "word": "Welcome",
+          "type": "Adj",
+          "meaning": "An instance or manner of greeting someone",
+          "example": "You will always receive a warm welcome here",
+          "tamil_meaning": "வரவேற்கிறேன்",
+          "tamil_example": "அலுவலகத்திற்கு வரவேற்கிறோம்"
+        },
     {
-        "imgcover": "https://m.media-amazon.com/images/I/71aLultW5EL._AC_UF1000,1000_QL80_.jpg",
-        "word": "Welcome",
-        "type": "Adj",
-        "meaning": "welcome",
-        "example": "welcome to the office"
-    },
+          "imgcover": "/image.gif",
+          "word": "Welcome",
+          "type": "Adj",
+          "meaning": "An instance or manner of greeting someone",
+          "example": "You will always receive a warm welcome here",
+          "tamil_meaning": "வரவேற்கிறேன்",
+          "tamil_example": "அலுவலகத்திற்கு வரவேற்கிறோம்"
+        },
     {
-        "imgcover": "https://m.media-amazon.com/images/I/71aLultW5EL._AC_UF1000,1000_QL80_.jpg",
-        "word": "Welcome",
-        "type": "Adj",
-        "meaning": "welcome",
-        "example": "welcome to the office"
-    },
+          "imgcover": "/image.gif",
+          "word": "Welcome",
+          "type": "Adj",
+          "meaning": "An instance or manner of greeting someone",
+          "example": "You will always receive a warm welcome here",
+          "tamil_meaning": "வரவேற்கிறேன்",
+          "tamil_example": "அலுவலகத்திற்கு வரவேற்கிறோம்"
+        },
     {
-        "imgcover": "https://m.media-amazon.com/images/I/71aLultW5EL._AC_UF1000,1000_QL80_.jpg",
-        "word": "Welcome",
-        "type": "Adj",
-        "meaning": "welcome",
-        "example": "welcome to the office"
-    }    
+          "imgcover": "/image.gif",
+          "word": "Welcome",
+          "type": "Adj",
+          "meaning": "An instance or manner of greeting someone",
+          "example": "You will always receive a warm welcome here",
+          "tamil_meaning": "வரவேற்கிறேன்",
+          "tamil_example": "அலுவலகத்திற்கு வரவேற்கிறோம்"
+        },
+    {
+          "imgcover": "/image.gif",
+          "word": "Welcome",
+          "type": "Adj",
+          "meaning": "An instance or manner of greeting someone",
+          "example": "You will always receive a warm welcome here",
+          "tamil_meaning": "வரவேற்கிறேன்",
+          "tamil_example": "அலுவலகத்திற்கு வரவேற்கிறோம்"
+        }
 ]
