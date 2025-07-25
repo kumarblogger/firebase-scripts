@@ -1,15 +1,17 @@
 [
     {
-        "imgcover": "https://m.media-amazon.com/images/I/71aLultW5EL._AC_UF1000,1000_QL80_.jpg",
-        "bookname": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "download_link": "https://github.com/kumarblogger"
+        "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_Dx9IHWKqTIpB1_efaZXNxhHDxz9LBBr4NQmoY3Oma1Aw2KWEc1RRutI9XMdrbg8eG037O_cofv68TUjJplWBzPnp1Q7V49K-AK4rCMU66Glld9HrF13eECb1IUM4qoybA_e19_B7fE9OBL36iFRGLrNmSqIdx2nFnQqMZivPeyZUAYcyS27IrZgJpDx/s320-rw/81ASZ-B-IvL._SY466_.jpg",
+        "bookname": "The Secret- இரகசியம்",
+        "author": "Rhonda Byrne",
+        "download_link": "https://drive.google.com/uc?export=download&id=1pCqbPZlhg9tku4aDKiK0xrlv4lzl8arM",
+        "Genre": '["Education","Popular","Philosophy"]'
     },
     {
-        "imgcover": "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UF1000,1000_QL80_.jpg",
+        "imgcover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2EOW1QnkIFikiiImCymjlUCmbRYnGMNDV0KEpBX9cMS4ahWpucRTESYvSwMVaaQrqhQzwLTYarFP5oBlD1s105lmV6YgQpvhGyDZc1UArPlngGz-tF7sM89qwBQ4ZhLd-NFQfy7p-knxuxwZf3u4fA2prrbnEmTdIX10lHYUcvmDuZf2ljAjtGj9eOnG/s320-rw/khDofFY.jpeg",
         "bookname": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "download_link": "https://github.com/kumarblogger"
+        "author": "ஹெக்டர் கார்சியா (ஆசிரியர்), பிரான்செஸ்க் மிரல்லஸ்",
+        "download_link": "https://drive.google.com/uc?export=download&id=1VyHeBsAMVWJfVdRFeIov-82E2SYusVws",
+        "Genre": '["Education","Popular","Philosophy"]'
     },
     {
         "imgcover": "https://m.media-amazon.com/images/I/71X1p4TGlxL._AC_UF1000,1000_QL80_.jpg",
