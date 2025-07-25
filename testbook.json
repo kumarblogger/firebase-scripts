@@ -1,0 +1,18 @@
+[
+    {
+        "uniqueid":"4rt4RR",
+        "imgcover": "https://m.media-amazon.com/images/I/91BdP+31lBL._AC_UF1000,1000_QL80_.jpg",
+        "bookname": "The Secret- இரகசியம்",
+        "author": "Rhonda Byrne",
+        "genre": ["Motivational","Popular","Philosophy"],
+        "download_link": "https://drive.google.com/uc?export=download&id=1pCqbPZlhg9tku4aDKiK0xrlv4lzl8arM"
+    },
+    {
+        "uniqueid":"89yuhT",
+        "imgcover": "https://media1.tenor.com/m/EV-OQL03ieIAAAAd/zaunvi-caitvitwt.gif",
+        "bookname": "அணிலாடும் முன்றில்- Anilaadum Mundril",
+        "author": "Na. Muthukumar",
+        "genre": ["Story","Literature"],
+        "download_link": "https://drive.google.com/uc?export=download&id=1O86B5CUjdAMjOc_29_5BrI89xz9qJs_c"
+    }
+]
