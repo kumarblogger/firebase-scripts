@@ -1,184 +1,366 @@
 [
   {
-   
-    "word": "Welcome",
-    "type": ["Adj"],
-    "meaning": "An instance or manner of greeting someone",
-    "example": "You will always receive a warm welcome here",
-    "tamilmean": "வரவேற்கிறேன்",
-    "tamilexample": "அலுவலகத்திற்கு வரவேற்கிறோம்",
-    "gifimgcover": "https://media1.tenor.com/m/gmEO7lfYnncAAAAC/happy-wednesday.gif",
-    "count": "1"
+    "word": "Frugal",
+    "type": ["adjective"],
+    "meaning": "sparing or economical with regard to money or food",
+    "example": "He was frugal with his earnings and saved for the future.",
+    "tamilmean": "சிக்கனமான",
+    "tamilexample": "அவர் தனது வருவாயில் சிக்கனமாக இருந்தார் மற்றும் எதிர்காலத்திற்காக சேமித்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/1Nc6rtScQEUAAAAd/thats-it-yes-thats-it.gif",
+    "count": 1
   },
   {
-    "word": "Happy",
-    "type": ["Adj"],
-    "meaning": "Feeling or showing pleasure or contentment",
-    "example": "She was happy to see her friend after so long",
+    "word": "Eloquent",
+    "type": ["adjective"],
+    "meaning": "fluent or persuasive in speaking or writing",
+    "example": "She gave an eloquent speech that moved everyone.",
+    "tamilmean": "வாசிப்பிலும் பேச்சிலும் வாக்காற்றலுடைய",
+    "tamilexample": "அவர் உரை மிகவும் வாக்காற்றலுடனும், ஆழமான உணர்வுகளுடனும் இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/9x9P7nY7x6cAAAAd/speech-eloquent.gif",
+    "count": 2
+  },
+  {
+    "word": "Serene",
+    "type": ["adjective"],
+    "meaning": "calm, peaceful, and untroubled",
+    "example": "The lake was serene in the early morning.",
+    "tamilmean": "அமைதியான",
+    "tamilexample": "காலை வேளையில் ஏரி அமைதியாக இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/whD3U4DRXn8AAAAd/calm-serene.gif",
+    "count": 3
+  },
+  {
+    "word": "Vivid",
+    "type": ["adjective"],
+    "meaning": "producing powerful feelings or strong, clear images in the mind",
+    "example": "He gave a vivid description of the accident.",
+    "tamilmean": "வெள்ளையான, தெளிவான",
+    "tamilexample": "அவர் விபத்தை தெளிவாக விவரித்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/Ilo3mOAB5HcAAAAd/bright-vivid.gif",
+    "count": 4
+  },
+  {
+    "word": "Benevolent",
+    "type": ["adjective"],
+    "meaning": "well meaning and kindly",
+    "example": "She was a benevolent leader who cared for her people.",
+    "tamilmean": "உதவி மனப்பான்மை கொண்ட",
+    "tamilexample": "அவர் தனது மக்களை கவனிக்கும் உதவிகரமான தலைவியாக இருந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/J7ZbtQ2ZlJ8AAAAd/kind-nice.gif",
+    "count": 5
+  },
+  {
+    "word": "Candid",
+    "type": ["adjective"],
+    "meaning": "truthful and straightforward; frank",
+    "example": "He gave a candid opinion about the movie.",
+    "tamilmean": "மெய்ப்பான, நேரடியான",
+    "tamilexample": "அவர் திரைப்படத்தைப் பற்றிய நேரடியான கருத்தைக் கூறினார்.",
+    "gifimgcover": "https://media1.tenor.com/m/SHNJNd3RWnUAAAAd/truth-candid.gif",
+    "count": 6
+  },
+  {
+    "word": "Diligent",
+    "type": ["adjective"],
+    "meaning": "having or showing care and conscientiousness in one's work or duties",
+    "example": "She is a diligent student who always finishes her work.",
+    "tamilmean": "அழுத்தமான முயற்சி எடுப்பவன்",
+    "tamilexample": "அவர் தன் பணியில் எப்போதும் முயற்சி எடுக்கும் மாணவியாக உள்ளார்.",
+    "gifimgcover": "https://media1.tenor.com/m/2Yw9uC0VwvUAAAAd/hardworking-study.gif",
+    "count": 7
+  },
+  {
+    "word": "Gratitude",
+    "type": ["noun"],
+    "meaning": "the quality of being thankful",
+    "example": "She expressed her gratitude to the doctor.",
+    "tamilmean": "நன்றியுணர்வு",
+    "tamilexample": "அவர் மருத்துவருக்கு நன்றியுடன் இருந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/Xn64nUlADU0AAAAd/thank-you-gratitude.gif",
+    "count": 8
+  },
+  {
+    "word": "Humble",
+    "type": ["adjective"],
+    "meaning": "having or showing a modest or low estimate of one's importance",
+    "example": "Despite his success, he remained humble.",
+    "tamilmean": "தாழ்மையான",
+    "tamilexample": "வெற்றிபெற்ற பிறகும் அவர் தாழ்மையுடன் இருந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/Y0nAyxeN4KsAAAAd/humble.gif",
+    "count": 9
+  },
+  {
+    "word": "Innovative",
+    "type": ["adjective"],
+    "meaning": "featuring new methods; advanced and original",
+    "example": "The company introduced an innovative product.",
+    "tamilmean": "புதிய யோசனைகள் கொண்ட",
+    "tamilexample": "அந்நிறுவனம் புதிய யோசனையுடன் தயாரிப்பை அறிமுகப்படுத்தியது.",
+    "gifimgcover": "https://media1.tenor.com/m/7N7Mj17JNaUAAAAd/innovation-idea.gif",
+    "count": 10
+  },
+  [
+  {
+    "word": "Jubilant",
+    "type": ["adjective"],
+    "meaning": "feeling or expressing great happiness and triumph",
+    "example": "The crowd was jubilant after the team won.",
+    "tamilmean": "மிகுந்த மகிழ்ச்சியுடன்",
+    "tamilexample": "அணி வெற்றிபெற்றதும் கூட்டம் மிகுந்த மகிழ்ச்சியுடன் இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/F7KnLVpYKRYAAAAC/celebrate-happy.gif",
+    "count": 11
+  },
+  {
+    "word": "Keen",
+    "type": ["adjective"],
+    "meaning": "having or showing eagerness or enthusiasm",
+    "example": "He was very keen to learn new skills.",
+    "tamilmean": "ஆர்வமுள்ள",
+    "tamilexample": "புதிய திறன்களை கற்றுக்கொள்ள அவர் ஆர்வமுடன் இருந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/CeOowZYRM8YAAAAC/excited-yes.gif",
+    "count": 12
+  },
+  {
+    "word": "Lucid",
+    "type": ["adjective"],
+    "meaning": "expressed clearly; easy to understand",
+    "example": "Her explanation was lucid and helpful.",
+    "tamilmean": "தெளிவான",
+    "tamilexample": "அவளது விளக்கம் தெளிவாகவும் உதவிகரமாகவும் இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/NmZecYptFVAAAAAC/brain-idea.gif",
+    "count": 13
+  },
+  {
+    "word": "Meticulous",
+    "type": ["adjective"],
+    "meaning": "showing great attention to detail; very careful",
+    "example": "He kept meticulous records of every expense.",
+    "tamilmean": "மிகவும் கவனமான",
+    "tamilexample": "ஒவ்வொரு செலவையும் அவர் மிக கவனமாக பதிவுசெய்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/zQQVpZyF0REAAAAC/focus-detail.gif",
+    "count": 14
+  },
+  {
+    "word": "Nostalgic",
+    "type": ["adjective"],
+    "meaning": "feeling a longing for the past",
+    "example": "She felt nostalgic about her childhood days.",
+    "tamilmean": "நினைவுகளால் தோன்றும் சோகமும் மகிழ்ச்சியும்",
+    "tamilexample": "குழந்தைப் பருவ நினைவுகளால் அவர் சோகமடைந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/bCkyFVq6CgUAAAAC/nostalgic.gif",
+    "count": 15
+  },
+  {
+    "word": "Optimistic",
+    "type": ["adjective"],
+    "meaning": "hopeful and confident about the future",
+    "example": "He remains optimistic despite the difficulties.",
+    "tamilmean": "நம்பிக்கையுடன் இருப்பவர்",
+    "tamilexample": "சிரமங்களுக்கிடையிலும் அவர் நம்பிக்கையுடன் இருந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/kKKYiM9yMXYAAAAC/positive-thinking.gif",
+    "count": 16
+  },
+  {
+    "word": "Pragmatic",
+    "type": ["adjective"],
+    "meaning": "dealing with things realistically and sensibly",
+    "example": "We need a pragmatic solution to this problem.",
+    "tamilmean": "நடைமுறை நோக்குடன்",
+    "tamilexample": "இந்த சிக்கலுக்கு நடைமுறைப் பரிகாரம் தேவை.",
+    "gifimgcover": "https://media1.tenor.com/m/DZ0XvFAAYoQAAAAd/practical-thinking.gif",
+    "count": 17
+  },
+  {
+    "word": "Quaint",
+    "type": ["adjective"],
+    "meaning": "attractively unusual or old-fashioned",
+    "example": "They stayed in a quaint little village.",
+    "tamilmean": "பழமையான ஆனால் அழகான",
+    "tamilexample": "அவர்கள் பழமையான அழகான கிராமத்தில் தங்கினர்.",
+    "gifimgcover": "https://media1.tenor.com/m/WnYlbjNN_I8AAAAC/cottage-cozy.gif",
+    "count": 18
+  },
+  {
+    "word": "Resilient",
+    "type": ["adjective"],
+    "meaning": "able to recover quickly from difficulties",
+    "example": "Children are often more resilient than adults.",
+    "tamilmean": "எளிதில் மீண்டுபவர்",
+    "tamilexample": "குழந்தைகள் பெரும்பாலும் எளிதில் மீளக்கூடியவர்கள்.",
+    "gifimgcover": "https://media1.tenor.com/m/I5gPh_dk6cwAAAAC/resilient-strong.gif",
+    "count": 19
+  },
+  {
+    "word": "Stellar",
+    "type": ["adjective"],
+    "meaning": "exceptionally good; outstanding",
+    "example": "She gave a stellar performance.",
+    "tamilmean": "மிக சிறந்த",
+    "tamilexample": "அவள் மிகச் சிறந்த நிகழ்வை வழங்கினாள்.",
+    "gifimgcover": "https://media1.tenor.com/m/mg82RhE2jS4AAAAC/bravo-clapping.gif",
+    "count": 20
+  },
+  [
+  {
+    "word": "Tenacious",
+    "type": ["adjective"],
+    "meaning": "tending to keep a firm hold of something; determined",
+    "example": "Her tenacious attitude helped her achieve her goals.",
+    "tamilmean": "பிடிவாதமான",
+    "tamilexample": "அவளது பிடிவாதமான நோக்கு அவளுக்கு இலக்கை அடைய உதவியது.",
+    "gifimgcover": "https://media1.tenor.com/m/AhFos7kAwZsAAAAC/strong-determined.gif",
+    "count": 21
+  },
+  {
+    "word": "Uplift",
+    "type": ["verb"],
+    "meaning": "to raise someone's spirits or mood",
+    "example": "Her kind words uplifted my day.",
+    "tamilmean": "உயர்த்தும், உற்சாகப்படுத்தும்",
+    "tamilexample": "அவளது இனிய வார்த்தைகள் என் நாளை உற்சாகப்படுத்தின.",
+    "gifimgcover": "https://media1.tenor.com/m/f7qNDP-AQ9IAAAAC/uplifting-positive.gif",
+    "count": 22
+  },
+  {
+    "word": "Vigilant",
+    "type": ["adjective"],
+    "meaning": "keeping careful watch for possible danger or difficulties",
+    "example": "The guards remained vigilant at night.",
+    "tamilmean": "எச்சரிக்கையுடன் இருப்பவர்",
+    "tamilexample": "பாதுகாப்பாளர்கள் இரவில் எச்சரிக்கையுடன் இருந்தனர்.",
+    "gifimgcover": "https://media1.tenor.com/m/ZCJpI_QFVQ0AAAAC/guard-security.gif",
+    "count": 23
+  },
+  {
+    "word": "Witty",
+    "type": ["adjective"],
+    "meaning": "showing quick and inventive verbal humor",
+    "example": "He made a witty remark during the meeting.",
+    "tamilmean": "வாய்ப்பாட்டு அறிவுடைய",
+    "tamilexample": "மாநாட்டில் அவர் வாய்ப்பாட்டுத் தெளிவுடன் பேசினார்.",
+    "gifimgcover": "https://media1.tenor.com/m/0CEbZUP1qgQAAAAC/witty.gif",
+    "count": 24
+  },
+  {
+    "word": "Yearn",
+    "type": ["verb"],
+    "meaning": "to have a strong desire or longing for something",
+    "example": "He yearned for his hometown after moving abroad.",
+    "tamilmean": "வெறுமனதாக விரும்புதல்",
+    "tamilexample": "வெளிநாட்டுக்கு சென்ற பிறகு அவர் தாய்நாட்டை வெறுமனதாக விரும்பினார்.",
+    "gifimgcover": "https://media1.tenor.com/m/ZcCn7tEw2loAAAAC/miss-you-sad.gif",
+    "count": 25
+  },
+  {
+    "word": "Zealous",
+    "type": ["adjective"],
+    "meaning": "showing great energy or enthusiasm",
+    "example": "The volunteers were zealous about helping others.",
+    "tamilmean": "மிகுந்த உற்சாகம் கொண்ட",
+    "tamilexample": "தன்னார்வலர்கள் பிறருக்கு உதவ மிகுந்த உற்சாகம் கொண்டிருந்தனர்.",
+    "gifimgcover": "https://media1.tenor.com/m/3nU0D5-mCOUAAAAC/hyper-energetic.gif",
+    "count": 26
+  },
+  {
+    "word": "Admire",
+    "type": ["verb"],
+    "meaning": "regard with respect or warm approval",
+    "example": "I truly admire her courage.",
+    "tamilmean": "மிக விரும்பி பாராட்டுதல்",
+    "tamilexample": "அவளது துணிச்சலை நான் மிகவும் பாராட்டுகிறேன்.",
+    "gifimgcover": "https://media1.tenor.com/m/TcKPEapP2EwAAAAC/applause-admire.gif",
+    "count": 27
+  },
+  {
+    "word": "Bliss",
+    "type": ["noun"],
+    "meaning": "perfect happiness; great joy",
+    "example": "Sitting by the beach was pure bliss.",
+    "tamilmean": "மிகுந்த ஆனந்தம்",
+    "tamilexample": "கடற்கரையில் அமர்வது மிகுந்த ஆனந்தமாக இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/P3iE10YqcgkAAAAC/bliss-relax.gif",
+    "count": 28
+  },
+  {
+    "word": "Compassion",
+    "type": ["noun"],
+    "meaning": "sympathetic pity and concern for the sufferings of others",
+    "example": "Her compassion for the poor was evident.",
+    "tamilmean": "கருணை",
+    "tamilexample": "ஏழைகளுக்கான அவளது கருணை வெளிப்படையாக இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/4ge1gWGUAIgAAAAC/compassion-care.gif",
+    "count": 29
+  },
+  {
+    "word": "Devoted",
+    "type": ["adjective"],
+    "meaning": "very loving or loyal",
+    "example": "He is a devoted father.",
+    "tamilmean": "அர்ப்பணிப்புடன்",
+    "tamilexample": "அவர் அர்ப்பணிப்புடன் இருக்கும் தந்தை.",
+    "gifimgcover": "https://media1.tenor.com/m/WkN3FKbmhcEAAAAC/father-love.gif",
+    "count": 30
+  },
+  [
+  {
+    "word": "Empathy",
+    "type": ["noun"],
+    "meaning": "the ability to understand and share the feelings of another",
+    "example": "She showed great empathy towards the victim.",
+    "tamilmean": "பிறரின் உணர்வுகளைப் புரிந்து கொள்ளும் திறன்",
+    "tamilexample": "பாதிக்கப்பட்டவருக்கு அவர் மிகுந்த கருணையுடன் நடந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/M2Flrf9kmC8AAAAC/empathy-understanding.gif",
+    "count": 31
+  },
+  {
+    "word": "Fearless",
+    "type": ["adjective"],
+    "meaning": "lacking fear",
+    "example": "The firefighter was fearless in the face of danger.",
+    "tamilmean": "அச்சமற்ற",
+    "tamilexample": "அந்த தீயணைபவருக்கு அச்சமில்லை.",
+    "gifimgcover": "https://media1.tenor.com/m/KWC8DozRDaUAAAAC/fearless-brave.gif",
+    "count": 32
+  },
+  {
+    "word": "Gratitude",
+    "type": ["noun"],
+    "meaning": "the quality of being thankful",
+    "example": "She expressed her gratitude with a heartfelt letter.",
+    "tamilmean": "நன்றியுணர்ச்சி",
+    "tamilexample": "அவள் மனதார நன்றியுடன் ஒரு கடிதத்தை எழுதியாள்.",
+    "gifimgcover": "https://media1.tenor.com/m/HM1kITCLyqsAAAAC/thank-you-gratitude.gif",
+    "count": 33
+  },
+  {
+    "word": "Humble",
+    "type": ["adjective"],
+    "meaning": "having or showing a modest or low view of one's importance",
+    "example": "He remained humble despite his success.",
+    "tamilmean": "தாழ்மையான",
+    "tamilexample": "வெற்றிபெற்ற பிறகும் அவர் தாழ்மையாக இருந்தார்.",
+    "gifimgcover": "https://media1.tenor.com/m/5JftEWmiuVgAAAAC/humble-thank-you.gif",
+    "count": 34
+  },
+  {
+    "word": "Inspire",
+    "type": ["verb"],
+    "meaning": "to fill someone with the urge or ability to do something creative or positive",
+    "example": "Her story inspired many people.",
+    "tamilmean": "ஊக்கமளிக்கிறவன்",
+    "tamilexample": "அவளது கதையால் பலர் ஊக்கமடைந்தனர்.",
+    "gifimgcover": "https://media1.tenor.com/m/TfIYGJ4KrKcAAAAC/inspire-encourage.gif",
+    "count": 35
+  },
+  {
+    "word": "Joyful",
+    "type": ["adjective"],
+    "meaning": "feeling, expressing, or causing great pleasure and happiness",
+    "example": "The festival was a joyful occasion.",
     "tamilmean": "மகிழ்ச்சியான",
-    "tamilexample": "அவள் நீண்ட காலத்திற்குப் பிறகு தன் நண்பரைப் பார்த்து மகிழ்ச்சியடைந்தாள்",
-    "gifimgcover": "https://media.tenor.com/kQjsTRbRQoYAAAAj/quby.gif",
-    "count": "1"    
-  },
-  {
-                "word": "Abandon",
-                "type": ["verb"],
-                "meaning": "to leave completely and finally",
-                "example": "She abandoned her car and continued on foot.",
-                "tamilmean": "கைவிடு",
-                "tamilexample": "அவள் தனது காரை கைவிட்டு கால்நடையாக தொடர்ந்தாள்.",
-                "gifimgcover": "https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif",
-                "count": 1
-            },
-            {
-                "word": "Benevolent",
-                "type": ["adjective"],
-                "meaning": "well meaning and kindly",
-                "example": "He was a benevolent old man who volunteered at the shelter.",
-                "tamilmean": "கருணையுள்ள",
-                "tamilexample": "அவர் ஒரு கருணையுள்ள வயதான மனிதர், அவர் தங்குமிடத்தில் தன்னார்வலராக இருந்தார்.",
-                "gifimgcover": "https://media1.tenor.com/m/fXN7DTBgkcEAAAAd/clapping-ben-grimm.gif",
-                "count": 2
-            },
-            {
-                "word": "Candid",
-                "type": ["adjective"],
-                "meaning": "truthful and straightforward",
-                "example": "She gave us her candid opinion about the proposal.",
-                "tamilmean": "வெளிப்படையான",
-                "tamilexample": "அவர் திட்டம் குறித்து தனது வெளிப்படையான கருத்தை எங்களுக்கு வழங்கினார்.",
-                "gifimgcover": "https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif",
-                "count": 3
-            },
-            {
-                "word": "Diligent",
-                "type": ["adjective"],
-                "meaning": "having or showing care and conscientiousness",
-                "example": "She was diligent in her work and never missed a deadline.",
-                "tamilmean": "விடாமுயற்சியுள்ள",
-                "tamilexample": "அவர் தனது வேலையில் விடாமுயற்சியாக இருந்தார் மற்றும் ஒருபோதும் காலக்கெடுவை தவறவிடவில்லை.",
-                "gifimgcover": "https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif",
-                "count": 1
-            },
-            {
-                "word": "Eloquent",
-                "type": ["adjective"],
-                "meaning": "fluent or persuasive in speaking or writing",
-                "example": "The speaker gave an eloquent address to the audience.",
-                "tamilmean": "சொல்திறமுள்ள",
-                "tamilexample": "பேச்சாளர் பார்வையாளர்களுக்கு ஒரு சொல்திறமுள்ள உரையை வழங்கினார்.",
-                "gifimgcover": "https://media1.tenor.com/m/3yPBPC_dwe8AAAAd/leonardo-dicaprio-clapping.gif",
-                "count": 2
-            },
-            {
-                "word": "Frugal",
-                "type": ["adjective"],
-                "meaning": "sparing or economical with regard to money or food",
-                "example": "He was frugal with his earnings and saved for the future.",
-                "tamilmean": "சிக்கனமான",
-                "tamilexample": "அவர் தனது வருவாயில் சிக்கனமாக இருந்தார் மற்றும் எதிர்காலத்திற்காக சேமித்தார்.",
-                "gifimgcover": "https://media1.tenor.com/m/1Nc6rtScQEUAAAAd/thats-it-yes-thats-it.gif",
-                "count": 3
-            },
-            {
-                "word": "Gregarious",
-                "type": ["adjective"],
-                "meaning": "fond of company; sociable",
-                "example": "She was a gregarious person who loved parties.",
-                "tamilmean": "கூடிவாழும்",
-                "tamilexample": "அவர் ஒரு கூடிவாழும் நபர், அவர் விருந்துகளை விரும்பினார்.",
-                "gifimgcover": "https://media1.tenor.com/m/OLPc9gF__UMAAAAd/that%27s-it-trent.gif",
-                "count": 1
-            },
-            {
-                "word": "Humble",
-                "type": ["adjective"],
-                "meaning": "having or showing a modest estimate of one's importance",
-                "example": "Despite his success, he remained humble.",
-                "tamilmean": "அடக்கமான",
-                "tamilexample": "தனது வெற்றி இருந்தபோதிலும், அவர் அடக்கமாக இருந்தார்.",
-                "gifimgcover": "https://media1.tenor.com/m/KX_DvNTiznIAAAAd/that%27s-it-hell-yeah.gif",
-                "count": 2
-            },
-            {
-                "word": "Innovative",
-                "type": ["adjective"],
-                "meaning": "featuring new methods; advanced and original",
-                "example": "The company was known for its innovative products.",
-                "tamilmean": "புதுமையான",
-                "tamilexample": "நிறுவனம் அதன் புதுமையான தயாரிப்புகளுக்கு பெயர் பெற்றது.",
-                "gifimgcover": "https://media1.tenor.com/m/uaqJICjtx4QAAAAd/that%27s-it-enough.gif",
-                "count": 3
-            },
-  {
-   
-    "word": "Welcome",
-    "type": ["Adj"],
-    "meaning": "An instance or manner of greeting someone",
-    "example": "You will always receive a warm welcome here",
-    "tamilmean": "வரவேற்கிறேன்",
-    "tamilexample": "அலுவலகத்திற்கு வரவேற்கிறோம்",
-    "gifimgcover": "https://media1.tenor.com/m/gmEO7lfYnncAAAAC/happy-wednesday.gif",
-    "count": "1"
-  },
-  {
-    "word": "Happy",
-    "type": ["Adj"],
-    "meaning": "Feeling or showing pleasure or contentment",
-    "example": "She was happy to see her friend after so long",
-    "tamilmean": "மகிழ்ச்சியான",
-    "tamilexample": "அவள் நீண்ட காலத்திற்குப் பிறகு தன் நண்பரைப் பார்த்து மகிழ்ச்சியடைந்தாள்",
-    "gifimgcover": "https://media.tenor.com/kQjsTRbRQoYAAAAj/quby.gif",
-    "count": "1"    
-  },
-  {
-                "word": "Abandon",
-                "type": ["verb"],
-                "meaning": "to leave completely and finally",
-                "example": "She abandoned her car and continued on foot.",
-                "tamilmean": "கைவிடு",
-                "tamilexample": "அவள் தனது காரை கைவிட்டு கால்நடையாக தொடர்ந்தாள்.",
-                "gifimgcover": "https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif",
-                "count": 1
-            },
-            {
-                "word": "Benevolent",
-                "type": ["adjective"],
-                "meaning": "well meaning and kindly",
-                "example": "He was a benevolent old man who volunteered at the shelter.",
-                "tamilmean": "கருணையுள்ள",
-                "tamilexample": "அவர் ஒரு கருணையுள்ள வயதான மனிதர், அவர் தங்குமிடத்தில் தன்னார்வலராக இருந்தார்.",
-                "gifimgcover": "https://media1.tenor.com/m/fXN7DTBgkcEAAAAd/clapping-ben-grimm.gif",
-                "count": 2
-            },
-            {
-                "word": "Candid",
-                "type": ["adjective"],
-                "meaning": "truthful and straightforward",
-                "example": "She gave us her candid opinion about the proposal.",
-                "tamilmean": "வெளிப்படையான",
-                "tamilexample": "அவர் திட்டம் குறித்து தனது வெளிப்படையான கருத்தை எங்களுக்கு வழங்கினார்.",
-                "gifimgcover": "https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif",
-                "count": 3
-            },
-            {
-                "word": "Diligent",
-                "type": ["adjective"],
-                "meaning": "having or showing care and conscientiousness",
-                "example": "She was diligent in her work and never missed a deadline.",
-                "tamilmean": "விடாமுயற்சியுள்ள",
-                "tamilexample": "அவர் தனது வேலையில் விடாமுயற்சியாக இருந்தார் மற்றும் ஒருபோதும் காலக்கெடுவை தவறவிடவில்லை.",
-                "gifimgcover": "https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif",
-                "count": 1
-            },
-            {
-                "word": "Eloquent",
-                "type": ["adjective"],
-                "meaning": "fluent or persuasive in speaking or writing",
-                "example": "The speaker gave an eloquent address to the audience.",
-                "tamilmean": "சொல்திறமுள்ள",
-                "tamilexample": "பேச்சாளர் பார்வையாளர்களுக்கு ஒரு சொல்திறமுள்ள உரையை வழங்கினார்.",
-                "gifimgcover": "https://media1.tenor.com/m/3yPBPC_dwe8AAAAd/leonardo-dicaprio-clapping.gif",
-                "count": 2
-            }
+    "tamilexample": "பண்டிகை ஒரு மகிழ்ச்சியான நிகழ்வாக இருந்தது.",
+    "gifimgcover": "https://media1.tenor.com/m/UvJDb5ExaZMAAAAC/happy-dance.gif",
+    "count": 36
+  }
 ]
+
