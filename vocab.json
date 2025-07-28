@@ -1,23 +1,24 @@
 [
   {
-    "count": "1",
-    "gifimgcover": "https://media1.tenor.com/m/gmEO7lfYnncAAAAC/happy-wednesday.gif",
+   
     "word": "Welcome",
     "type": ["Adj"],
     "meaning": "An instance or manner of greeting someone",
     "example": "You will always receive a warm welcome here",
     "tamilmean": "வரவேற்கிறேன்",
-    "tamilexample": "அலுவலகத்திற்கு வரவேற்கிறோம்"
+    "tamilexample": "அலுவலகத்திற்கு வரவேற்கிறோம்",
+    "gifimgcover": "https://media1.tenor.com/m/gmEO7lfYnncAAAAC/happy-wednesday.gif",
+    "count": "1"
   },
   {
-    "count": "1",
-    "gifimgcover": "https://media.tenor.com/kQjsTRbRQoYAAAAj/quby.gif",
     "word": "Happy",
     "type": ["Adj"],
     "meaning": "Feeling or showing pleasure or contentment",
     "example": "She was happy to see her friend after so long",
     "tamilmean": "மகிழ்ச்சியான",
-    "tamilexample": "அவள் நீண்ட காலத்திற்குப் பிறகு தன் நண்பரைப் பார்த்து மகிழ்ச்சியடைந்தாள்"
+    "tamilexample": "அவள் நீண்ட காலத்திற்குப் பிறகு தன் நண்பரைப் பார்த்து மகிழ்ச்சியடைந்தாள்",
+    "gifimgcover": "https://media.tenor.com/kQjsTRbRQoYAAAAj/quby.gif",
+    "count": "1"    
   },
   {
                 "word": "Abandon",
