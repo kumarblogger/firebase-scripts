@@ -1,394 +1,429 @@
 {
-  "subject": "Indian Polity",
-  "topic": "Preamble",
+  "subject": "Polity",
+  "topic": "Making of indian constitution",
   "language": "ta",
+  "target_level": "6th Standard to Degree Standard",
+  "exam_focus": [
+    "TNPSC Group 1",
+    "TNPSC Group 2",
+    "TNPSC Group 2A",
+    "TNPSC Group 4",
+    "VAO"
+  ],
   "notes": [
     {
-      "id": "pre001",
-      "heading": "Preamble (முன்னுரை)",
-      "subheading": "Preamble என்றால் என்ன?",
-      "content": "Preamble என்பதற்கு தமிழில் முன்னுரை அல்லது முகவுரை என்று பொருள்.",
+      "id": "topic001",
+      "heading": "அறிமுகம்",
+      "subheading": "இந்திய அரசியலமைப்பு உருவாக்கம் - ஓர் அறிமுகம்",
+      "content": "இந்திய அரசியலமைப்பு (Constitution of India) என்பது ஒரு நாட்டின் அடிப்படைச் சட்டமாகும். இது நாட்டின் அரசு அமைப்பின் அடிப்படைக் கட்டமைப்பை நிர்ணயிக்கிறது. இந்திய அரசியலமைப்பு சபை (Constituent Assembly) மூலம் பல்வேறு கட்டங்களாக விவாதிக்கப்பட்டு, விமரிசிக்கப்பட்டு, உருவாக்கப்பட்டது. இந்திய அரசியலமைப்பு உருவான விதம், அதன் வரலாற்றுப் பின்னணி (Historical Background), அமைச்சரவைத் தூதுக்குழுத் திட்டம் (Cabinet Mission Plan), இந்திய அரசியலமைப்பு நிர்ணய சபையின் அமைப்பு, அதன் முக்கியக் குழுக்கள், வரைவுக் குழுவின் பணி மற்றும் அது நிறைவேற்றப்பட்ட முறைகள் ஆகியவை TNPSC தேர்வுகளில் மிகவும் முக்கியமான பகுதிகளாகும்.",
       "keywords": [
-        "Preamble",
-        "முன்னுரை",
-        "முகவுரை",
-        "What is Preamble",
-        "Preamble meaning"
+        "அரசியலமைப்பு",
+        "Constitution of India",
+        "அரசியலமைப்பு சபை",
+        "Constituent Assembly",
+        "வரலாற்றுப் பின்னணி"
+      ],
+      "type": "introduction",
+      "importance": "high",
+      "level": "multiple",
+      "related_ids": [
+        "topic002",
+        "topic003"
+      ],
+      "question_patterns": [
+        "What is the Indian Constitution?",
+        "இந்திய அரசியலமைப்பு என்றால் என்ன?",
+        "அரசியலமைப்பு சபையின் உருவாக்கம் பற்றி எழுதுக."
+      ],
+      "source": "10th & 12th Standard Political Science Tamil Nadu State Board Textbook"
+    },
+    {
+      "id": "topic002",
+      "heading": "அரசியலமைப்பு - பொருள் மற்றும் வரையறை",
+      "subheading": "அரசியலமைப்பின் வரையறையும் நோக்கமும்",
+      "content": "அரசியலமைப்பு (Constitution) என்பது ஒரு நாட்டின் அடிப்படைச் சட்டமாகும். இது அரசாங்கத்தின் பல்வேறு அங்கங்களான சட்டமன்றம் (Legislature), நிருவாகத்துறை (Executive), மற்றும் நீதித்துறை (Judiciary) ஆகியவற்றின் அதிகாரங்களையும், அவற்றுக்கிடையேயான உறவுகளையும் வரையறுக்கிறது. மேலும், குடிமக்களின் உரிமைகளையும் (Fundamental Rights) கடமைகளையும் (Fundamental Duties) உறுதி செய்கிறது. அரசியலமைப்பு இரண்டு வகைப்படும்: எழுதப்பட்ட அரசியலமைப்பு (Written Constitution - எ.கா: இந்தியா, அமெரிக்கா) மற்றும் எழுதப்படாத அரசியலமைப்பு (Unwritten Constitution - எ.கா: பிரிட்டன்).",
+      "keywords": [
+        "அரசியலமைப்பு வரையறை",
+        "Constitution Definition",
+        "எழுதப்பட்ட அரசியலமைப்பு",
+        "Written Constitution",
+        "சட்டமன்றம்",
+        "நிருவாகத்துறை",
+        "நீதித்துறை"
       ],
       "type": "definition",
       "importance": "high",
+      "level": "multiple",
       "related_ids": [
-        "pre002"
+        "topic001",
+        "topic010"
       ],
       "question_patterns": [
-        "what",
-        "definition",
-        "meaning",
-        "simple"
+        "Define Constitution.",
+        "அரசியலமைப்பின் வரையறை யாது?",
+        "எழுதப்பட்ட மற்றும் எழுதப்படாத அரசியலமைப்பிற்கு உள்ள வேறுபாடுகள் என்ன?"
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "11th Standard Political Science Textbook"
     },
     {
-      "id": "pre002",
-      "heading": "Preamble (முன்னுரை)",
-      "subheading": "முன்னுரையின் பொதுவான விளக்கம்",
-      "content": "ஒரு புத்தகம், சட்டம், அரசியலமைப்பு அல்லது ஆவணத்தின் தொடக்கத்தில், அதன் நோக்கம், அடிப்படை கொள்கைகள் மற்றும் முக்கிய கருத்துகளை விளக்குகின்ற பகுதி Preamble (முன்னுரை) எனப்படும்.",
+      "id": "topic003",
+      "heading": "பின்னணி மற்றும் தோற்றம்",
+      "subheading": "இந்திய அரசியலமைப்பு சபைக்கான கோரிக்கை",
+      "content": "இந்தியாவிற்கான ஒரு தனி அரசியலமைப்பு சபை (Constituent Assembly for India) வேண்டும் என்ற கோரிக்கை முதன்முதலில் 1934 ஆம் ஆண்டில் இந்திய கம்யூனிச இயக்கத்தின் முன்னோடியான எம்.என். ராய் (M.N. Roy) அவர்களால் முன்வைக்கப்பட்டது. பின்னர் 1935 இல் இந்திய தேசிய காங்கிரஸ் (Indian National Congress) அதிகாரப்பூர்வமாக இந்தக் கோரிக்கையை விடுத்தது. 1940 ஆம் ஆண்டில் பிரிட்டிஷ் அரசு 'ஆகஸ்ட் கொடை' (August Offer) மூலம் தத்துவார்த்த ரீதியாக இதைக் ஏற்றுக்கொண்டது. 1942 ஆம் ஆண்டில் கிரிப்ஸ் தூதுக்குழு (Cripps Mission) இந்தியாவிற்கு வந்து போருக்குப் பின் அரசியலமைப்பு சபை அமைக்கப்படும் என்றது. எனினும், அது முஸ்லிம் லீக்கினால் (Muslim League) நிராகரிக்கப்பட்டது.",
       "keywords": [
-        "Preamble definition",
-        "முன்னுரை விளக்கம்",
-        "அரசியலமைப்பு முன்னுரை",
-        "ஆவணத்தின் தொடக்கம்",
-        "நோக்கம்",
-        "அடிப்படை கொள்கைகள்"
+        "எம்.என். ராய்",
+        "M.N. Roy",
+        "அரசியலமைப்பு சபை கோரிக்கை",
+        "August Offer",
+        "Cripps Mission",
+        "கிரிப்ஸ் தூதுக்குழு"
+      ],
+      "type": "background",
+      "importance": "high",
+      "level": "9",
+      "related_ids": [
+        "topic001",
+        "topic004"
+      ],
+      "question_patterns": [
+        "Who first proposed the idea of a Constituent Assembly for India?",
+        "இந்தியாவிற்கு அரசியலமைப்பு சபை வேண்டும் என்ற கோரிக்கையை முதன்முதலில் விடுத்தவர் யார்?",
+        "கிரிப்ஸ் தூதுக்குழுவின் முக்கியத்துவம் என்ன?"
+      ],
+      "source": "12th Standard Political Science Textbook"
+    },
+    {
+      "id": "topic004",
+      "heading": "வரலாற்று வளர்ச்சி",
+      "subheading": "அமைச்சரவைத் தூதுக்குழுத் திட்டம் (Cabinet Mission Plan, 1946)",
+      "content": "பிரிட்டிஷ் அமைச்சரவையால் அனுப்பப்பட்ட மூன்று உறுப்பினர்களைக் கொண்ட அமைச்சரவைத் தூதுக்குழு (Cabinet Mission - பெத்திக் லாரன்ஸ், ஸ்டாஃபோர்ட் கிரிப்ஸ், ஏ.வி. அலெக்ஸாண்டர்) 1946 மார்ச் மாதம் இந்தியாவிற்கு வந்தது. இவர்களின் திட்டத்தின் அடிப்படையில்தான் இந்திய அரசியலமைப்பு நிர்ணய சபை (Constituent Assembly) உருவாக்கப்பட்டது. இத்திட்டத்தின்படி, ஒட்டுமொத்த மாகாண மற்றும் சுதேச சமஸ்தானங்களின் மக்கள் தொகை அடிப்படையில் இடங்கள் ஒதுக்கப்பட்டு, மறைமுக தேர்தல் மூலம் அரசியலமைப்பு சபை உறுப்பினர்கள் தேர்ந்தெடுக்கப்பட்டனர்.",
+      "keywords": [
+        "அமைச்சரவைத் தூதுக்குழு",
+        "Cabinet Mission Plan",
+        "பெத்திக் லாரன்ஸ்",
+        "Pethick Lawrence",
+        "அரசியலமைப்பு சபை தேர்தல்"
+      ],
+      "type": "history",
+      "importance": "high",
+      "level": "10",
+      "related_ids": [
+        "topic003",
+        "topic005"
+      ],
+      "question_patterns": [
+        "Explain Cabinet Mission Plan of 1946.",
+        "1946 ஆம் ஆண்டு அமைச்சரவைத் தூதுக்குழுத் திட்டம் பற்றி விவரிக்க.",
+        "அரசியலமைப்பு சபை எந்தத் திட்டத்தின் கீழ் அமைக்கப்பட்டது?"
+      ],
+      "source": "10th Standard Social Science Textbook"
+    },
+    {
+      "id": "topic005",
+      "heading": "அரசியலமைப்பு நிர்ணய சபையின் அமைப்பு",
+      "subheading": "உறுப்பினர்களின் எண்ணிக்கையும் பிரதிநிதித்துவமும்",
+      "content": "1946 ஆம் ஆண்டு அமைச்சரவைத் தூதுக்குழுத் திட்டத்தின் கீழ் உருவாக்கப்பட்ட அரசியலமைப்பு நிர்ணய சபையின் மொத்த உறுப்பினர் எண்ணிக்கை 389 ஆகும். இதில் பிரிட்டிஷ் இந்தியாவின் நேரடி ஆட்சிப் பகுதிகளிலிருந்து 296 உறுப்பினர்களும், சுதேச சமஸ்தானங்களிலிருந்து (Princely States) 93 உறுப்பினர்களும் ஒதுக்கப்பட்டனர். மாகாண சட்டமன்ற உறுப்பினர்களால் மறைமுகத் தேர்தல் மூலம் உறுப்பினர்கள் தேர்ந்தெடுக்கப்பட்டனர். மத அடிப்படையில் சீக்கியர்கள், முஸ்லிம்கள் மற்றும் பொதுப் பிரிவினர் என பிரதிநிதித்துவம் வழங்கப்பட்டது. இந்தியா - பாகிஸ்தான் பிரிவினைக்குப் பிறகு (Mountbatten Plan) சபையின் எண்ணிக்கை 299 ஆகக் குறைந்தது. மகாத்மா காந்தி மற்றும் முகம்மது அலி ஜின்னா ஆகியோர் அரசியலமைப்பு சபையில் உறுப்பினர்களாக இடம்பெறவில்லை என்பது குறிப்பிடத்தக்கது.",
+      "keywords": [
+        "அரசியலமைப்பு சபை உறுப்பினர்கள்",
+        "Constituent Assembly members",
+        "சுதேச சமஸ்தானங்கள்",
+        "Princely States",
+        "மறைமுகத் தேர்தல்"
       ],
       "type": "explanation",
       "importance": "high",
+      "level": "10",
       "related_ids": [
-        "pre001",
-        "pre003"
+        "topic004",
+        "topic006"
       ],
       "question_patterns": [
-        "what",
-        "explain",
-        "definition",
-        "simple",
-        "short"
+        "What was the total strength of the Constituent Assembly?",
+        "அரசியலமைப்பு சபையின் மொத்த உறுப்பினர்கள் எத்தனை பேர்?",
+        "அரசியலமைப்பு சபையின் அமைப்பு முறையை விளக்குக."
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "10th & 12th Standard Political Science"
     },
     {
-      "id": "pre003",
-      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
-      "subheading": "இந்திய முன்னுரையின் முக்கியத்துவம்",
-      "content": "இந்திய அரசியலமைப்பின் முன்னுரை இந்தியாவின் அடிப்படை நோக்கங்களையும் கொள்கைகளையும் எடுத்துரைக்கிறது.",
+      "id": "topic006",
+      "heading": "நிகழ்வுகள் மற்றும் முக்கியத் தலைவர்கள்",
+      "subheading": "அரசியலமைப்பு சபையின் கூட்டங்கள்",
+      "content": "அரசியலமைப்பு நிர்ணய சபையின் முதல் கூட்டம் 1946 ஆம் ஆண்டு டிசம்பர் 9 ஆம் நாள் நடைபெற்றது. இக்கூட்டத்திற்கு சபையின் மூத்த உறுப்பினரான டாக்டர் சச்சிதானந்த சின்கா (Dr. Sachchidananda Sinha) பிரெஞ்சு நடைமுறைப்படி தற்காலிகத் தலைவராகத் (Provisional President) தேர்ந்தெடுக்கப்பட்டார். பின்னர் 1946 டிசம்பர் 11 அன்று டாக்டர் ராஜேந்திர பிரசாத் (Dr. Rajendra Prasad) சபையின் நிரந்தரத் தலைவராகத் தேர்ந்தெடுக்கப்பட்டார். எச்.சி. முகர்ஜி (H.C. Mukherjee) மற்றும் வி.டி. கிருஷ்ணமாச்சாரி (V.T. Krishnamachari) ஆகியோர் துணைத் தலைவர்களாக நியமிக்கப்பட்டனர். சர் பி.என். ராவ் (Sir B.N. Rau) அரசியலமைப்புச் சட்ட ஆலோசகராகக் (Constitutional Advisor) நியமிக்கப்பட்டார். பண்டித ஜவகர்லால் நேரு அவர்கள் 1946 டிசம்பர் 13 இல் வரலாற்றுச் சிறப்புமிக்க 'குறிக்கோள் தீர்மானத்தை' (Objective Resolution) முன்மொழிந்தார். இது ஜனவரி 22, 1947 இல் சபையால் ஏற்றுக்கொள்ளப்பட்டது.",
       "keywords": [
-        "Indian Preamble",
-        "இந்திய முன்னுரை",
-        "அடிப்படை நோக்கங்கள்",
-        "கொள்கைகள்",
-        "Preamble objectives"
+        "சச்சிதானந்த சின்கா",
+        "Sachchidananda Sinha",
+        "ராஜேந்திர பிரசாத்",
+        "Rajendra Prasad",
+        "பி.என். ராவ்",
+        "B.N. Rau",
+        "குறிக்கோள் தீர்மானம்",
+        "Objective Resolution"
       ],
-      "type": "explanation",
+      "type": "event",
       "importance": "high",
+      "level": "8",
       "related_ids": [
-        "pre004",
-        "pre005",
-        "pre006"
+        "topic005",
+        "topic007"
       ],
       "question_patterns": [
-        "what",
-        "explain",
-        "importance",
-        "objectives",
-        "short"
+        "Who was the temporary president of the Constituent Assembly?",
+        "அரசியலமைப்பு சபையின் தற்காலிகத் தலைவர் யார்?",
+        "குறிக்கோள் தீர்மானம் எப்போது நிறைவேற்றப்பட்டது?"
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "10th Standard Social Science Textbook"
     },
     {
-      "id": "pre004",
-      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
-      "subheading": "Sovereign (இறையாண்மை)",
-      "content": "Sovereign (இறையாண்மை) என்பதன் பொருள் இந்தியா ஒரு சுதந்திரமான நாடு என்பதாகும்.",
+      "id": "topic007",
+      "heading": "பணிகளும் முக்கியக் குழுக்களும்",
+      "subheading": "அரசியலமைப்பு சபையின் பல்வேறு குழுக்கள்",
+      "content": "இந்திய அரசியலமைப்பை உருவாக்குவதற்காக அரசியலமைப்பு நிர்ணய சபை 8 பெரிய குழுக்களையும், பல சிறிய குழுக்களையும் அமைத்தது. அதில் மிக முக்கியமானவை: 1. வரைவுக் குழு (Drafting Committee) - தலைவர் டாக்டர் பி.ஆர். அம்பேத்கர் (Dr. B.R. Ambedkar). 2. மத்திய அதிகாரக் குழு (Union Powers Committee) மற்றும் மத்திய அரசியலமைப்புக் குழு - தலைவர் ஜவகர்லால் நேரு. 3. மாகாண அரசியலமைப்புக்குழு (Provincial Constitution Committee) - தலைவர் சர்தார் வல்லபாய் படேல். 4. அடிப்படையுரிமைகள், சிறுபான்மையினர் மற்றும் பழங்குடியினர் ஆலோசனைக் குழு - தலைவர் சர்தார் வல்லபாய் படேல். 5. நடைமுறை விதிகள் குழு மற்றும் வழிகாட்டுதல் குழு (Steering Committee) - டாக்டர் ராஜேந்திர பிரசாத். வரைவுக் குழு 1947 ஆகஸ்ட் 29 அன்று டாக்டர் பி.ஆர். அம்பேத்கர் தலைமையில் 7 உறுப்பினர்களுடன் அமைக்கப்பட்டது.",
       "keywords": [
-        "Sovereign",
-        "இறையாண்மை",
-        "சுதந்திரமான நாடு",
-        "What is Sovereign"
+        "வரைவுக் குழு",
+        "Drafting Committee",
+        "பி.ஆர். அம்பேத்கர்",
+        "B.R. Ambedkar",
+        "மத்திய அதிகாரக் குழு",
+        "Union Powers Committee",
+        "சர்தார் வல்லபாய் படேல்"
       ],
-      "type": "definition",
+      "type": "committee",
       "importance": "high",
+      "level": "11",
       "related_ids": [
-        "pre003"
+        "topic006",
+        "topic008"
       ],
       "question_patterns": [
-        "what",
-        "meaning",
-        "definition",
-        "simple"
+        "Who was the chairman of the Drafting Committee?",
+        "அரசியலமைப்பு வரைவுக் குழுவின் தலைவர் யார்?",
+        "அரசியலமைப்பு சபையின் முக்கியக் குழுக்களைப் பட்டியலிடுக."
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "11th & 12th Political Science Textbook"
     },
     {
-      "id": "pre005",
-      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
-      "subheading": "Socialist (சமதர்மம்)",
-      "content": "Socialist (சமதர்மம்) என்பது சமூக மற்றும் பொருளாதார சமத்துவத்தை நோக்கமாகக் கொண்டது.",
+      "id": "topic008",
+      "heading": "உருவாக்க காலமும் ஏற்பும்",
+      "subheading": "அரசியலமைப்பு உருவாக்கப்பட்ட காலம் மற்றும் நிறைவு",
+      "content": "இந்திய அரசியலமைப்பை உருவாக்க மொத்தம் 2 ஆண்டுகள், 11 மாதங்கள் மற்றும் 18 நாட்கள் ஆயின. இக்காலக்கட்டத்தில் 11 அமர்வுகள் (Sessions) நடத்தப்பட்டு, 114 நாட்கள் வரைவு குறித்து விவாதிக்கப்பட்டது. வரைவுக் குழு சுமார் 60 நாடுகளின் அரசியலமைப்புகளை ஆராய்ந்து இந்தியாவிற்குப் பொருத்தமான விதிகளைத் தொகுத்தது. இதற்காக ஆன மொத்த செலவு சுமார் 64 லட்சம் ரூபாய் ஆகும். 1949 நவம்பர் 26 அன்று அரசியலமைப்பு நிர்ணய சபையால் இந்திய அரசியலமைப்பு ஏற்றுக்கொள்ளப்பட்டது (Adopted). இத்தருணம் தற்போது 'இந்திய அரசியலமைப்பு நாள்' (Constitution Day / National Law Day) என்று கொண்டாடப்படுகிறது. முழுமையாக 1950 ஜனவரி 26 அன்று நடைமுறைக்கு வந்தது (Enacted/Commenced). ஜனவரி 26 ஆம் நாள் 1930 இல் லாகூரில் நடைபெற்ற காங்கிரஸ் மாநாட்டில் 'பூரண ஸ்வராஜ்' (Purna Swaraj) நாள் கொண்டாடப்பட்டதை நினைவுகூரும் வகையில் தேர்ந்தெடுக்கப்பட்டது.",
       "keywords": [
-        "Socialist",
-        "சமதர்மம்",
-        "சமூக சமத்துவம்",
-        "பொருளாதார சமத்துவம்"
-      ],
-      "type": "definition",
-      "importance": "high",
-      "related_ids": [
-        "pre003"
-      ],
-      "question_patterns": [
-        "what",
-        "meaning",
-        "definition",
-        "simple"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre006",
-      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
-      "subheading": "Secular (மதச்சார்பின்மை)",
-      "content": "Secular (மதச்சார்பின்மை) என்பது அனைத்து மதங்களையும் சமமாக மதிக்கிறது.",
-      "keywords": [
-        "Secular",
-        "மதச்சார்பின்மை",
-        "அனைத்து மதங்களும்",
-        "மத சமத்துவம்"
-      ],
-      "type": "definition",
-      "importance": "high",
-      "related_ids": [
-        "pre003"
-      ],
-      "question_patterns": [
-        "what",
-        "meaning",
-        "definition",
-        "simple"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre007",
-      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
-      "subheading": "Democratic (ஜனநாயகம்)",
-      "content": "Democratic (ஜனநாயகம்) என்பது மக்களால் தேர்ந்தெடுக்கப்படும் அரசு என்பதைக் குறிக்கிறது.",
-      "keywords": [
-        "Democratic",
-        "ஜனநாயகம்",
-        "மக்களால் தேர்ந்தெடுக்கப்படும் அரசு"
-      ],
-      "type": "definition",
-      "importance": "high",
-      "related_ids": [
-        "pre003"
-      ],
-      "question_patterns": [
-        "what",
-        "meaning",
-        "definition",
-        "simple"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre008",
-      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
-      "subheading": "Republic (குடியரசு)",
-      "content": "Republic (குடியரசு) என்பது நாட்டின் தலைவர் தேர்தல் முறையில் தேர்ந்தெடுக்கப்படுகிறார் என்பதைக் குறிக்கிறது.",
-      "keywords": [
-        "Republic",
-        "குடியரசு",
-        "நாட்டின் தலைவர்",
-        "தேர்தல் முறை"
-      ],
-      "type": "definition",
-      "importance": "high",
-      "related_ids": [
-        "pre003"
-      ],
-      "question_patterns": [
-        "what",
-        "meaning",
-        "definition",
-        "simple"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre009",
-      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
-      "subheading": "சமூக, பொருளாதார மற்றும் அரசியல் நீதி",
-      "content": "இந்திய அரசியலமைப்பின் முன்னுரை சமூக, பொருளாதார மற்றும் அரசியல் நீதியை உறுதி செய்வதை நோக்கமாகக் கொண்டுள்ளது.",
-      "keywords": [
-        "Social Justice",
-        "Economic Justice",
-        "Political Justice",
-        "சமூக நீதி",
-        "பொருளாதார நீதி",
-        "அரசியல் நீதி"
-      ],
-      "type": "objective",
-      "importance": "high",
-      "related_ids": [
-        "pre010",
-        "pre011",
-        "pre012"
-      ],
-      "question_patterns": [
-        "what",
-        "objectives",
-        "why",
-        "importance",
-        "explain"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre010",
-      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
-      "subheading": "சுதந்திரம்",
-      "content": "சிந்தனை, கருத்து, நம்பிக்கை, மதம் மற்றும் வழிபாட்டு சுதந்திரத்தை உறுதி செய்வது முன்னுரையின் முக்கிய நோக்கமாகும்.",
-      "keywords": [
-        "Liberty",
-        "சுதந்திரம்",
-        "சிந்தனை",
-        "கருத்து",
-        "நம்பிக்கை",
-        "மதம்",
-        "வழிபாடு"
-      ],
-      "type": "objective",
-      "importance": "high",
-      "related_ids": [
-        "pre009"
-      ],
-      "question_patterns": [
-        "what",
-        "objectives",
-        "why",
-        "importance"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre011",
-      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
-      "subheading": "சமத்துவம்",
-      "content": "அந்தஸ்து மற்றும் வாய்ப்புகளில் சமத்துவத்தை உறுதி செய்வது முன்னுரையின் முக்கிய நோக்கமாகும்.",
-      "keywords": [
-        "Equality",
-        "சமத்துவம்",
-        "அந்தஸ்து",
-        "வாய்ப்புகள்"
-      ],
-      "type": "objective",
-      "importance": "high",
-      "related_ids": [
-        "pre009"
-      ],
-      "question_patterns": [
-        "what",
-        "objectives",
-        "why",
-        "importance"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre012",
-      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
-      "subheading": "சகோதரத்துவம்",
-      "content": "தனிமனித கண்ணியம் மற்றும் நாட்டின் ஒற்றுமையை உறுதி செய்தல் முன்னுரையின் முக்கிய நோக்கமாகும்.",
-      "keywords": [
-        "Fraternity",
-        "சகோதரத்துவம்",
-        "தனிமனித கண்ணியம்",
-        "நாட்டின் ஒற்றுமை"
-      ],
-      "type": "objective",
-      "importance": "high",
-      "related_ids": [
-        "pre009"
-      ],
-      "question_patterns": [
-        "what",
-        "objectives",
-        "why",
-        "importance"
-      ],
-      "source": "TNPSC Preamble Notes"
-    },
-    {
-      "id": "pre013",
-      "heading": "முன்னுரை - வரலாற்று முக்கியத்துவம்",
-      "subheading": "முன்னுரை ஏற்றுக்கொள்ளப்பட்ட நாள்",
-      "content": "இந்திய அரசியலமைப்பின் முன்னுரை 1949 நவம்பர் 26 அன்று ஏற்றுக்கொள்ளப்பட்டது.",
-      "keywords": [
-        "Preamble adopted date",
-        "முன்னுரை ஏற்றுக்கொள்ளப்பட்ட நாள்",
-        "1949",
+        "அரசியலமைப்பு உருவாக்கும் காலம்",
+        "Constitutional Time Period",
         "நவம்பர் 26",
-        "Adopted"
+        "Constitution Day",
+        "ஜனவரி 26",
+        "Republic Day",
+        "பூரண ஸ்வராஜ்",
+        "Purna Swaraj",
+        "64 லட்சம்"
+      ],
+      "type": "event",
+      "importance": "high",
+      "level": "10",
+      "related_ids": [
+        "topic007",
+        "topic009",
+        "topic014"
+      ],
+      "question_patterns": [
+        "How long did it take to frame the Indian Constitution?",
+        "இந்திய அரசியலமைப்பை உருவாக்க எவ்வளவு காலம் ஆனது?",
+        "When was the Constitution adopted and when did it come into force?"
+      ],
+      "source": "10th Standard Social Science Textbook"
+    },
+    {
+      "id": "topic009",
+      "heading": "அரசியலமைப்பின் அசல் வடிவம் மற்றும் ஆதாரங்கள்",
+      "subheading": "அசல் அரசியலமைப்பின் கட்டமைப்பு மற்றும் கடன் வாங்கிய மூலங்கள்",
+      "content": "தொடக்கத்தில் (1949-ல்), இந்திய அரசியலமைப்பில் ஒரு முகவுரை (Preamble), 395 உறுப்புகள் (Articles), 22 பகுதிகள் (Parts), மற்றும் 8 அட்டவணைகள் (Schedules) இருந்தன. இந்திய அரசியலமைப்பு பல்வேறு நாடுகளின் அரசியலமைப்பில் உள்ள சிறந்த அம்சங்களை உள்வாங்கி உருவாக்கப்பட்டுள்ளது. முக்கியமாக 1935 ஆம் ஆண்டு இந்திய அரசுச் சட்டத்தில் இருந்து (Government of India Act 1935) பெரும்பாலான விதிகள் எடுக்கப்பட்டன. பிரிட்டிஷ் அரசியலமைப்பிலிருந்து நாடாளுமன்ற முறை (Parliamentary System), ஒற்றைக் குடியுரிமை மற்றும் சட்டத்தின் ஆட்சி; அமெரிக்க அரசியலமைப்பிலிருந்து அடிப்படையுரிமைகள் (Fundamental Rights), முகவுரை மற்றும் நீதித்துறை சீராய்வு (Judicial Review); அயர்லாந்து அரசியலமைப்பிலிருந்து அரசு நெறிமுறைப்படுத்தும் கோட்பாடுகள் (Directive Principles of State Policy - DPSP); கனடா அரசியலமைப்பிலிருந்து கூட்டாட்சி முறை (Federal System with strong center); மற்றும் ஆஸ்திரேலியாவிலிருந்து பொதுப் பட்டியல் (Concurrent List) பெறப்பட்டன.",
+      "keywords": [
+        "உறுப்புகள்",
+        "Articles",
+        "பகுதிகள்",
+        "Parts",
+        "அட்டவணைகள்",
+        "Schedules",
+        "அடிப்படையுரிமைகள்",
+        "Fundamental Rights",
+        "DPSP",
+        "Government of India Act 1935"
+      ],
+      "type": "feature",
+      "importance": "high",
+      "level": "degree",
+      "related_ids": [
+        "topic008",
+        "topic010"
+      ],
+      "question_patterns": [
+        "What are the borrowings of the Indian Constitution from other countries?",
+        "இந்திய அரசியலமைப்பின் பல்வேறு வெளிநாட்டு மூலங்கள் யாவை?",
+        "தொடக்கத்தில் அரசியலமைப்பில் இருந்த உறுப்புகள் மற்றும் அட்டவணைகள் எத்தனை?"
+      ],
+      "source": "12th Standard Political Science Textbook"
+    },
+    {
+      "id": "topic010",
+      "heading": "முக்கிய அம்சங்கள்",
+      "subheading": "இந்திய அரசியலமைப்பின் தனிச்சிறப்புகள்",
+      "content": "இந்திய அரசியலமைப்பு உலகின் மிக நீளமான எழுதப்பட்ட அரசியலமைப்பாகும் (Longest Written Constitution). இது நெகிழும் மற்றும் நெகிளாத் தன்மையின் கலவையாகும் (Blend of Rigidity and Flexibility). இது நாடாளுமன்ற ஜனநாயக முறை அரசாங்கத்தை வழங்குகிறது. மேலும் இது இறையாண்மை மிக்க, சமதர்ம, சமயச்சார்பற்ற, ஜனநாயக, குடியரசு (Sovereign, Socialist, Secular, Democratic, Republic) நாடாகும். சுயேச்சையான நீதித்துறை (Independent Judiciary), வயதுவந்தோர் வாக்குரிமை (Universal Adult Franchise), ஒற்றைக் குடியுரிமை, மற்றும் கூட்டாட்சி தத்துவம் (Federal system with a unitary bias) ஆகியவை இதன் முக்கியச் சிறப்பம்சங்களாகும்.",
+      "keywords": [
+        "நீளமான அரசியலமைப்பு",
+        "Longest Constitution",
+        "சமயச்சார்பின்மை",
+        "Secularism",
+        "வயதுவந்தோர் வாக்குரிமை",
+        "Universal Adult Franchise",
+        "சுயேச்சையான நீதித்துறை"
+      ],
+      "type": "feature",
+      "importance": "high",
+      "level": "11",
+      "related_ids": [
+        "topic009",
+        "topic011"
+      ],
+      "question_patterns": [
+        "What are the salient features of the Indian Constitution?",
+        "இந்திய அரசியலமைப்பின் முக்கிய சிறப்பம்சங்கள் யாவை?",
+        "Why is the Indian Constitution called a blend of rigidity and flexibility?"
+      ],
+      "source": "11th & 12th Standard Political Science"
+    },
+    {
+      "id": "topic011",
+      "heading": "முக்கிய ஆளுமைகள் மற்றும் பங்களிப்பு",
+      "subheading": "அரசியலமைப்பு உருவாக்கத்தில் ஆளுமைகளின் பங்கு",
+      "content": "டாக்டர் பி.ஆர். அம்பேத்கர் (Dr. B.R. Ambedkar) இந்திய அரசியலமைப்பின் தந்தை (Father of the Indian Constitution) மற்றும் 'நவீன மனு' (Modern Manu) என அழைக்கப்படுகிறார். அவர் வரைவுக் குழுவின் தலைவராக ஆற்றிய பங்கு மகத்தானது. பண்டித ஜவகர்லால் நேரு நாட்டின் அரசியல் கொள்கைகளையும் குறிக்கோள் தீர்மானத்தையும் வடிவமைத்தார். அல்லாடி கிருஷ்ணசுவாமி ஐயர், கே.எம். முன்ஷி, என். கோபாலசுவாமி ஐயங்கார், சையது முகமது சாதுல்லா, என். மாதவ ராவ், மற்றும் டி.டி. கிருஷ்ணமாச்சாரி ஆகியோர் வரைவுக் குழுவின் முக்கிய உறுப்பினர்களாவர். எஸ்.என். முகர்ஜி (S.N. Mukherjee) தலைமை வரைவாளராக (Chief Draftsman) சட்ட வரைவுகளைத் தயாரிப்பதில் உதவினார். பிரேம் பிகாரி நரேன் ரைசதா (Prem Behari Narain Raizada) என்பவர் இந்திய அரசியலமைப்பை தனது கைப்பட இத்தாலிய பாணியில் (Italic style) எழுதினார்.",
+      "keywords": [
+        "டாக்டர் பி.ஆர். அம்பேத்கர்",
+        "Dr. B.R. Ambedkar",
+        "அரசியலமைப்பின் தந்தை",
+        "Father of Constitution",
+        "பிரேம் பிகாரி நரேன் ரைசதா",
+        "Prem Behari Narain Raizada"
+      ],
+      "type": "personality",
+      "importance": "high",
+      "level": "9",
+      "related_ids": [
+        "topic007",
+        "topic008"
+      ],
+      "question_patterns": [
+        "Who is known as the Father of the Indian Constitution?",
+        "இந்திய அரசியலமைப்பின் தந்தை என அழைக்கப்படுபவர் யார்?",
+        "இந்திய அரசியலமைப்பை கைப்பட எழுதியவர் யார்?"
+      ],
+      "source": "10th Standard Social Science Textbook"
+    },
+    {
+      "id": "topic012",
+      "heading": "தமிழ்நாடு மற்றும் இந்திய அளவில் முக்கியத் தகவல்கள்",
+      "subheading": "அரசியலமைப்பு சபையில் தமிழர்களின் பங்களிப்பு",
+      "content": "இந்திய அரசியலமைப்பு நிர்ணய சபையில் தமிழ்நாட்டைச் (அன்றைய மெட்ராஸ் மாகாணம்) சேர்ந்த பல தலைவர்களும் சட்ட வல்லுநர்களும் பங்களித்துள்ளனர். பெ. ராமசாமி (Periyar E.V. Ramasamy இயக்கக் கருத்துகளின் தாக்கம்), மற்றும் ஆற்காடு ராமசாமி முதலியார், டி.டி. கிருஷ்ணமாச்சாரி, என். கோபாலசுவாமி ஐயங்கார், எம். பக்தவத்சலம், கு. காமராஜ், ஓ.வி. அழகேசன் போன்றோர் பல்வேறு நிலைகளில் இந்திய அரசியல் மற்றும் ഭരണ அமைப்புச் செயல்பாடுகளில் பங்கெடுத்துள்ளனர். குறிப்பாக, டி.டி. கிருஷ்ணமாச்சாரி வரைவுக் குழுவில் டி.பி. கைதான் அவர்களின் மறைவுக்குப் பின்னர் உறுப்பினராகச் சேர்க்கப்பட்டார். மொத்தமாக அரசியலமைப்பு சபையில் 15 பெண் உறுப்பினர்கள் இருந்தனர். அதில் தமிழ்நாட்டைச் சேர்ந்த அம்மு சுவாமிநாதன், தாட்சாயணி வேலாயுதம் போன்றோர் அடங்குவர். தாட்சாயணி வேலாயுதம் அவர்கள் அரசியலமைப்பு சபையில் இடம்பெற்ற ஒரே தலித் பெண் ஆவார்.",
+      "keywords": [
+        "தாட்சாயணி வேலாயுதம்",
+        "Dakshayani Velayudhan",
+        "டி.டி. கிருஷ்ணமாச்சாரி",
+        "T.T. Krishnamachari",
+        "தமிழ்நாட்டுப் பிரதிநிதிகள்",
+        "அம்மு சுவாமிநாதன்"
+      ],
+      "type": "fact",
+      "importance": "high",
+      "level": "12",
+      "related_ids": [
+        "topic005",
+        "topic011"
+      ],
+      "question_patterns": [
+        "Name the notable members from Tamil Nadu in the Constituent Assembly.",
+        "அரசியலமைப்பு சபையில் இடம்பெற்ற பெண் உறுப்பினர்கள் யார்?",
+        "தாட்சாயணி வேலாயுதம் அவர்களின் சிறப்பிடம் என்ன?"
+      ],
+      "source": "12th Standard Political Science & State Research References"
+    },
+    {
+      "id": "topic013",
+      "heading": "தேசியச் சின்னங்கள் அங்கீகரிக்கப்பட்ட தேதிகள்",
+      "subheading": "அரசியலமைப்பு சபையின் இதரப் பணிகள்",
+      "content": "அரசியலமைப்புச் சட்டத்தை உருவாக்குவதோடு மட்டுமல்லாமல், அரசியலமைப்பு நிர்ணய சபை வேறு சில முக்கியப் பணிகளையும் மேற்கொண்டது. 1947 ஜூலை 22 அன்று இந்தியாவின் தேசியக் கொடி (National Flag) ஏற்றுக்கொள்ளப்பட்டது. 1950 ஜனவரி 24 அன்று தேசிய கீதம் (National Anthem) மற்றும் தேசியப் பாடல் (National Song) ஆகிய இரண்டும் ஏற்றுக்கொள்ளப்பட்டன. அதே நாளில் (ஜனவரி 24, 1950) டாக்டர் ராஜேந்திர பிரசாத் இந்தியாவின் முதல் குடியரசுத் தலைவராகத் தேர்ந்தெடுக்கப்பட்டார். 1949 மே மாதத்தில் காமன்வெல்த் (Commonwealth) அமைப்பில் இந்தியா இணைவதற்கு இச்சபை ஒப்புதல் அளித்தது.",
+      "keywords": [
+        "தேசியக் கொடி",
+        "National Flag",
+        "தேசிய கீதம்",
+        "National Anthem",
+        "தேசியப் பாடல்",
+        "National Song",
+        "காமன்வெல்த்"
       ],
       "type": "date",
       "importance": "high",
+      "level": "8",
       "related_ids": [
-        "pre014"
+        "topic008"
       ],
       "question_patterns": [
-        "when",
-        "date",
-        "important",
-        "tnpsc"
+        "When was the National Flag of India adopted?",
+        "இந்தியாவின் தேசியக் கொடி எப்போது ஏற்றுக்கொள்ளப்பட்டது?",
+        "தேசிய கீதம் மற்றும் தேசியப் பாடல் எப்போது அங்கீகரிக்கப்பட்டன?"
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "TNPSC Preparation Standard Facts (Polity Laxmikanth / School Books)"
     },
     {
-      "id": "pre014",
-      "heading": "முன்னுரை - வரலாற்று முக்கியத்துவம்",
-      "subheading": "42வது அரசியலமைப்புத் திருத்தம்",
-      "content": "1976 ஆம் ஆண்டு 42வது அரசியலமைப்புத் திருத்தத்தின் மூலம் Socialist, Secular மற்றும் Integrity ஆகிய சொற்கள் இந்திய அரசியலமைப்பின் முன்னுரையில் சேர்க்கப்பட்டன.",
+      "id": "topic014",
+      "heading": "அரசியலமைப்பு சபை மீதான விமர்சனங்கள்",
+      "subheading": "பகுப்பாய்வு மற்றும் விமர்சனப் பார்வை",
+      "content": "பட்டப்படிப்பு தரத்திலான (Degree Standard) தேர்வுகளில் அரசியலமைப்பு சபை மீதான விமர்சனங்கள் (Criticisms of the Constituent Assembly) முக்கியமானவை. 1. இது ஒரு பிரதிநிதித்துவ சபை அல்ல (Not a Representative Body): உறுப்பினர்கள் மக்கள் மூலம் நேரடியாகத் தேர்ந்தெடுக்கப்படவில்லை. 2. இது இறையாண்மை கொண்ட அமைப்பு அல்ல (Not a Sovereign Body): இது பிரிட்டிஷ் அரசின் முன்மொழிவுகளின் அடிப்படையில் உருவாக்கப்பட்டது. 3. அதிக நேரம் எடுத்துக்கொள்ளப்பட்டது (Time Consuming): அமெரிக்க அரசியலமைப்பு 4 மாதங்களில் முடிக்கப்பட்ட நிலையில், இது கிட்டத்தட்ட 3 ஆண்டுகள் ஆனது. 4. காங்கிரஸின் ஆதிக்கம் (Dominated by Congress): சபையில் காங்கிரஸ் கட்சியின் ஆதிக்கம் அதிகமாக இருந்தது என கிரான்வில் ஆஸ்டின் (Granville Austin) விமர்சித்துள்ளார். 5. வழக்கறிஞர்கள் மற்றும் அரசியல்வாதிகளின் ஆதிக்கம்: இதனால் அரசியலமைப்பின் மொழி மிகவும் சிக்கலானதாக மாறியது.",
       "keywords": [
-        "42nd Amendment",
-        "42வது திருத்தம்",
-        "1976",
-        "Socialist",
-        "Secular",
-        "Integrity",
-        "முன்னுரை திருத்தம்"
+        "விமர்சனங்கள்",
+        "Criticisms",
+        "பிரதிநிதித்துவ சபை அல்ல",
+        "Not a Representative Body",
+        "கிரான்வில் ஆஸ்டின்",
+        "Granville Austin"
       ],
-      "type": "amendment",
-      "importance": "high",
+      "type": "explanation",
+      "importance": "medium",
+      "level": "degree",
       "related_ids": [
-        "pre013"
+        "topic005",
+        "topic008"
       ],
       "question_patterns": [
-        "when",
-        "what",
-        "amendment",
-        "important",
-        "tnpsc"
+        "What are the major criticisms against the Constituent Assembly?",
+        "அரசியலமைப்பு நிர்ணய சபை மீதான முக்கிய விமர்சனங்களை விவரி.",
+        "அரசியலமைப்பு சபை காங்கிரஸால் ஆதிக்கம் செலுத்தப்பட்டது என்று கூறியவர் யார்?"
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "Degree Standard Academic Polity Textbooks (Indian Polity)"
     },
     {
-      "id": "pre015",
-      "heading": "Preamble (முன்னுரை)",
-      "subheading": "முன்னுரையின் எளிய விளக்கம்",
-      "content": "இந்திய அரசியலமைப்பின் முன்னுரை என்பது இந்தியாவின் அடிப்படை நோக்கம், கொள்கைகள், உரிமைகள் மற்றும் இலட்சியங்களை எடுத்துரைக்கும் அறிமுகப் பகுதியாகும்.",
+      "id": "topic015",
+      "heading": "TNPSC தேர்வு நோக்கு வினாக்கள் மற்றும் முக்கியக் குறிப்புகள்",
+      "subheading": "முக்கிய ஒருவரித் தகவல்கள் (Important One-liners)",
+      "content": "TNPSC தேர்வுகளில் அரசியலமைப்பு உருவாக்கம் குறித்த பகுதியிலிருந்து நேரடி மற்றும் கூற்று-காரண வினாக்கள் கேட்கப்படுகின்றன. முக்கிய ஒருவரித் தகவல்கள்: 1. அரசியலமைப்பு நிர்ணய சபையின் முதல் கூட்டம்: டிசம்பர் 9, 1946. 2. தற்காலிகத் தலைவர்: டாக்டர் சச்சிதானந்த சின்கா. 3. நிரந்தரத் தலைவர்: டாக்டர் ராஜேந்திர பிரசாத். 4. சட்ட ஆலோசகர்: சர் பி.என். ராவ். 5. வரைவுக் குழுத் தலைவர்: டாக்டர் பி.ஆர். அம்பேத்கர். 6. அரசியலமைப்பு ஏற்றுக்கொள்ளப்பட்ட நாள்: நவம்பர் 26, 1949. 7. அரசியலமைப்பு நடைமுறைக்கு வந்த நாள்: ஜனவரி 26, 1950. 8. மொத்த அமர்வுகள்: 11. 9. எடுத்துக்கொண்ட காலம்: 2 ஆண்டுகள், 11 மாதங்கள், 18 நாட்கள். மேற்கண்ட முக்கியமான தேதிகள், தலைவர்கள் மற்றும் குழுக்களின் பெயர்கள் தேர்வுக்கு மிக அவசியமானவையாகும்.",
       "keywords": [
-        "Preamble simple explanation",
-        "முன்னுரை எளிய விளக்கம்",
-        "அறிமுகப் பகுதி",
-        "அடிப்படை நோக்கம்",
-        "கொள்கைகள்",
-        "இலட்சியங்கள்"
+        "TNPSC முக்கியக் குறிப்புகள்",
+        "TNPSC One-liners",
+        "அரசியலமைப்பு தேதிகள்",
+        "Constitutional Dates"
       ],
-      "type": "summary",
+      "type": "fact",
       "importance": "high",
+      "level": "multiple",
       "related_ids": [
-        "pre001",
-        "pre002",
-        "pre003",
-        "pre009"
+        "topic006",
+        "topic008",
+        "topic013"
       ],
       "question_patterns": [
-        "what",
-        "simple",
-        "short",
-        "summary",
-        "definition"
+        "When was the first meeting of the Constituent Assembly held?",
+        "அரசியலமைப்பு நிர்ணய சபையின் தற்காலிகத் தலைவர் யார்?",
+        "இந்திய அரசியலமைப்பு நடைமுறைக்கு வந்த நாள் எது?"
       ],
-      "source": "TNPSC Preamble Notes"
+      "source": "TNPSC Previous Year Question Paper Analysis & 10th Polity"
     }
   ]
 }
