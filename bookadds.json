@@ -1,18 +1,394 @@
-[
+{
+  "subject": "Indian Polity",
+  "topic": "Preamble",
+  "language": "ta",
+  "notes": [
     {
-        "uniqueid":"4rt4RR",
-        "imgcover": "https://m.media-amazon.com/images/I/91BdP+31lBL._AC_UF1000,1000_QL80_.jpg",
-        "bookname": "The Secret- இரகசியம்",
-        "author": "Rhonda Byrne",
-        "genre": ["Motivational","Popular","Philosophy"],
-        "download_link": "https://drive.google.com/uc?export=download&id=1pCqbPZlhg9tku4aDKiK0xrlv4lzl8arM"
+      "id": "pre001",
+      "heading": "Preamble (முன்னுரை)",
+      "subheading": "Preamble என்றால் என்ன?",
+      "content": "Preamble என்பதற்கு தமிழில் முன்னுரை அல்லது முகவுரை என்று பொருள்.",
+      "keywords": [
+        "Preamble",
+        "முன்னுரை",
+        "முகவுரை",
+        "What is Preamble",
+        "Preamble meaning"
+      ],
+      "type": "definition",
+      "importance": "high",
+      "related_ids": [
+        "pre002"
+      ],
+      "question_patterns": [
+        "what",
+        "definition",
+        "meaning",
+        "simple"
+      ],
+      "source": "TNPSC Preamble Notes"
     },
     {
-        "uniqueid":"89yuhT",
-        "imgcover": "https://media1.tenor.com/m/EV-OQL03ieIAAAAd/zaunvi-caitvitwt.gif",
-        "bookname": "அணிலாடும் முன்றில்- Anilaadum Mundril",
-        "author": "Na. Muthukumar",
-        "genre": ["Story","Literature"],
-        "download_link": "https://drive.google.com/uc?export=download&id=1O86B5CUjdAMjOc_29_5BrI89xz9qJs_c"
+      "id": "pre002",
+      "heading": "Preamble (முன்னுரை)",
+      "subheading": "முன்னுரையின் பொதுவான விளக்கம்",
+      "content": "ஒரு புத்தகம், சட்டம், அரசியலமைப்பு அல்லது ஆவணத்தின் தொடக்கத்தில், அதன் நோக்கம், அடிப்படை கொள்கைகள் மற்றும் முக்கிய கருத்துகளை விளக்குகின்ற பகுதி Preamble (முன்னுரை) எனப்படும்.",
+      "keywords": [
+        "Preamble definition",
+        "முன்னுரை விளக்கம்",
+        "அரசியலமைப்பு முன்னுரை",
+        "ஆவணத்தின் தொடக்கம்",
+        "நோக்கம்",
+        "அடிப்படை கொள்கைகள்"
+      ],
+      "type": "explanation",
+      "importance": "high",
+      "related_ids": [
+        "pre001",
+        "pre003"
+      ],
+      "question_patterns": [
+        "what",
+        "explain",
+        "definition",
+        "simple",
+        "short"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre003",
+      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
+      "subheading": "இந்திய முன்னுரையின் முக்கியத்துவம்",
+      "content": "இந்திய அரசியலமைப்பின் முன்னுரை இந்தியாவின் அடிப்படை நோக்கங்களையும் கொள்கைகளையும் எடுத்துரைக்கிறது.",
+      "keywords": [
+        "Indian Preamble",
+        "இந்திய முன்னுரை",
+        "அடிப்படை நோக்கங்கள்",
+        "கொள்கைகள்",
+        "Preamble objectives"
+      ],
+      "type": "explanation",
+      "importance": "high",
+      "related_ids": [
+        "pre004",
+        "pre005",
+        "pre006"
+      ],
+      "question_patterns": [
+        "what",
+        "explain",
+        "importance",
+        "objectives",
+        "short"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre004",
+      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
+      "subheading": "Sovereign (இறையாண்மை)",
+      "content": "Sovereign (இறையாண்மை) என்பதன் பொருள் இந்தியா ஒரு சுதந்திரமான நாடு என்பதாகும்.",
+      "keywords": [
+        "Sovereign",
+        "இறையாண்மை",
+        "சுதந்திரமான நாடு",
+        "What is Sovereign"
+      ],
+      "type": "definition",
+      "importance": "high",
+      "related_ids": [
+        "pre003"
+      ],
+      "question_patterns": [
+        "what",
+        "meaning",
+        "definition",
+        "simple"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre005",
+      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
+      "subheading": "Socialist (சமதர்மம்)",
+      "content": "Socialist (சமதர்மம்) என்பது சமூக மற்றும் பொருளாதார சமத்துவத்தை நோக்கமாகக் கொண்டது.",
+      "keywords": [
+        "Socialist",
+        "சமதர்மம்",
+        "சமூக சமத்துவம்",
+        "பொருளாதார சமத்துவம்"
+      ],
+      "type": "definition",
+      "importance": "high",
+      "related_ids": [
+        "pre003"
+      ],
+      "question_patterns": [
+        "what",
+        "meaning",
+        "definition",
+        "simple"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre006",
+      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
+      "subheading": "Secular (மதச்சார்பின்மை)",
+      "content": "Secular (மதச்சார்பின்மை) என்பது அனைத்து மதங்களையும் சமமாக மதிக்கிறது.",
+      "keywords": [
+        "Secular",
+        "மதச்சார்பின்மை",
+        "அனைத்து மதங்களும்",
+        "மத சமத்துவம்"
+      ],
+      "type": "definition",
+      "importance": "high",
+      "related_ids": [
+        "pre003"
+      ],
+      "question_patterns": [
+        "what",
+        "meaning",
+        "definition",
+        "simple"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre007",
+      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
+      "subheading": "Democratic (ஜனநாயகம்)",
+      "content": "Democratic (ஜனநாயகம்) என்பது மக்களால் தேர்ந்தெடுக்கப்படும் அரசு என்பதைக் குறிக்கிறது.",
+      "keywords": [
+        "Democratic",
+        "ஜனநாயகம்",
+        "மக்களால் தேர்ந்தெடுக்கப்படும் அரசு"
+      ],
+      "type": "definition",
+      "importance": "high",
+      "related_ids": [
+        "pre003"
+      ],
+      "question_patterns": [
+        "what",
+        "meaning",
+        "definition",
+        "simple"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre008",
+      "heading": "இந்திய அரசியலமைப்பின் முன்னுரை",
+      "subheading": "Republic (குடியரசு)",
+      "content": "Republic (குடியரசு) என்பது நாட்டின் தலைவர் தேர்தல் முறையில் தேர்ந்தெடுக்கப்படுகிறார் என்பதைக் குறிக்கிறது.",
+      "keywords": [
+        "Republic",
+        "குடியரசு",
+        "நாட்டின் தலைவர்",
+        "தேர்தல் முறை"
+      ],
+      "type": "definition",
+      "importance": "high",
+      "related_ids": [
+        "pre003"
+      ],
+      "question_patterns": [
+        "what",
+        "meaning",
+        "definition",
+        "simple"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre009",
+      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
+      "subheading": "சமூக, பொருளாதார மற்றும் அரசியல் நீதி",
+      "content": "இந்திய அரசியலமைப்பின் முன்னுரை சமூக, பொருளாதார மற்றும் அரசியல் நீதியை உறுதி செய்வதை நோக்கமாகக் கொண்டுள்ளது.",
+      "keywords": [
+        "Social Justice",
+        "Economic Justice",
+        "Political Justice",
+        "சமூக நீதி",
+        "பொருளாதார நீதி",
+        "அரசியல் நீதி"
+      ],
+      "type": "objective",
+      "importance": "high",
+      "related_ids": [
+        "pre010",
+        "pre011",
+        "pre012"
+      ],
+      "question_patterns": [
+        "what",
+        "objectives",
+        "why",
+        "importance",
+        "explain"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre010",
+      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
+      "subheading": "சுதந்திரம்",
+      "content": "சிந்தனை, கருத்து, நம்பிக்கை, மதம் மற்றும் வழிபாட்டு சுதந்திரத்தை உறுதி செய்வது முன்னுரையின் முக்கிய நோக்கமாகும்.",
+      "keywords": [
+        "Liberty",
+        "சுதந்திரம்",
+        "சிந்தனை",
+        "கருத்து",
+        "நம்பிக்கை",
+        "மதம்",
+        "வழிபாடு"
+      ],
+      "type": "objective",
+      "importance": "high",
+      "related_ids": [
+        "pre009"
+      ],
+      "question_patterns": [
+        "what",
+        "objectives",
+        "why",
+        "importance"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre011",
+      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
+      "subheading": "சமத்துவம்",
+      "content": "அந்தஸ்து மற்றும் வாய்ப்புகளில் சமத்துவத்தை உறுதி செய்வது முன்னுரையின் முக்கிய நோக்கமாகும்.",
+      "keywords": [
+        "Equality",
+        "சமத்துவம்",
+        "அந்தஸ்து",
+        "வாய்ப்புகள்"
+      ],
+      "type": "objective",
+      "importance": "high",
+      "related_ids": [
+        "pre009"
+      ],
+      "question_patterns": [
+        "what",
+        "objectives",
+        "why",
+        "importance"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre012",
+      "heading": "முன்னுரையின் முக்கிய நோக்கங்கள்",
+      "subheading": "சகோதரத்துவம்",
+      "content": "தனிமனித கண்ணியம் மற்றும் நாட்டின் ஒற்றுமையை உறுதி செய்தல் முன்னுரையின் முக்கிய நோக்கமாகும்.",
+      "keywords": [
+        "Fraternity",
+        "சகோதரத்துவம்",
+        "தனிமனித கண்ணியம்",
+        "நாட்டின் ஒற்றுமை"
+      ],
+      "type": "objective",
+      "importance": "high",
+      "related_ids": [
+        "pre009"
+      ],
+      "question_patterns": [
+        "what",
+        "objectives",
+        "why",
+        "importance"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre013",
+      "heading": "முன்னுரை - வரலாற்று முக்கியத்துவம்",
+      "subheading": "முன்னுரை ஏற்றுக்கொள்ளப்பட்ட நாள்",
+      "content": "இந்திய அரசியலமைப்பின் முன்னுரை 1949 நவம்பர் 26 அன்று ஏற்றுக்கொள்ளப்பட்டது.",
+      "keywords": [
+        "Preamble adopted date",
+        "முன்னுரை ஏற்றுக்கொள்ளப்பட்ட நாள்",
+        "1949",
+        "நவம்பர் 26",
+        "Adopted"
+      ],
+      "type": "date",
+      "importance": "high",
+      "related_ids": [
+        "pre014"
+      ],
+      "question_patterns": [
+        "when",
+        "date",
+        "important",
+        "tnpsc"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre014",
+      "heading": "முன்னுரை - வரலாற்று முக்கியத்துவம்",
+      "subheading": "42வது அரசியலமைப்புத் திருத்தம்",
+      "content": "1976 ஆம் ஆண்டு 42வது அரசியலமைப்புத் திருத்தத்தின் மூலம் Socialist, Secular மற்றும் Integrity ஆகிய சொற்கள் இந்திய அரசியலமைப்பின் முன்னுரையில் சேர்க்கப்பட்டன.",
+      "keywords": [
+        "42nd Amendment",
+        "42வது திருத்தம்",
+        "1976",
+        "Socialist",
+        "Secular",
+        "Integrity",
+        "முன்னுரை திருத்தம்"
+      ],
+      "type": "amendment",
+      "importance": "high",
+      "related_ids": [
+        "pre013"
+      ],
+      "question_patterns": [
+        "when",
+        "what",
+        "amendment",
+        "important",
+        "tnpsc"
+      ],
+      "source": "TNPSC Preamble Notes"
+    },
+    {
+      "id": "pre015",
+      "heading": "Preamble (முன்னுரை)",
+      "subheading": "முன்னுரையின் எளிய விளக்கம்",
+      "content": "இந்திய அரசியலமைப்பின் முன்னுரை என்பது இந்தியாவின் அடிப்படை நோக்கம், கொள்கைகள், உரிமைகள் மற்றும் இலட்சியங்களை எடுத்துரைக்கும் அறிமுகப் பகுதியாகும்.",
+      "keywords": [
+        "Preamble simple explanation",
+        "முன்னுரை எளிய விளக்கம்",
+        "அறிமுகப் பகுதி",
+        "அடிப்படை நோக்கம்",
+        "கொள்கைகள்",
+        "இலட்சியங்கள்"
+      ],
+      "type": "summary",
+      "importance": "high",
+      "related_ids": [
+        "pre001",
+        "pre002",
+        "pre003",
+        "pre009"
+      ],
+      "question_patterns": [
+        "what",
+        "simple",
+        "short",
+        "summary",
+        "definition"
+      ],
+      "source": "TNPSC Preamble Notes"
     }
-]
+  ]
+}
